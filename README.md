@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**xhlar/xhlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love Linux and play videogames.
 
-Here are some ideas to get you started:
+- I want to be: 
+- Sysadmin linux
+- Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning JavaScript
+
+- I’m currently know:
+- MySQL
+- MongoDB
+- NodeJS
+- JavaScript
+
