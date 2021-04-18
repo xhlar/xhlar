@@ -10,9 +10,9 @@
 
 ### Favorite Tools
 
-Vim
-I3wm
-Zsh 
+- Vim
+- I3wm
+- Zsh 
 
 ### I’m currently learning 
 - Linux
@@ -24,4 +24,4 @@ Zsh
 - MongoDB
 - NodeJS
 - JavaScript
-
+- Git
