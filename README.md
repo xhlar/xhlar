@@ -1,27 +1,21 @@
 # Hi there 👋
 
-## I love Linux and play videogames.
-
-### My system operative is: Arch Linux
-
-- I want to be: 
-- Sysadmin Linux
-- Backend Developer
+### My SO: Arch Linux
 
 ### Favorite Tools
 
-- Vim
-- I3wm
-- Zsh 
+- vim
+- i3wm
+- zsh 
+- ranger
 
 ### I’m currently learning 
+
 - Linux
 - JavaScript
-- Cybersecurity
 
 ### I’m currently know:
 - MySQL
-- MongoDB
 - NodeJS
 - JavaScript
 - Git
