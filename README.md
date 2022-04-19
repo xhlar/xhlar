@@ -1,4 +1,3 @@
-# Hi there 👋
+# Hi there 
 
-### My SO: Arch Linux
 
